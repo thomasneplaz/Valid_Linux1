@@ -14,6 +14,8 @@ Il suffit ensuite de suivre les indications donné dans le programme au cour de 
 
 Toute les erreurs et warning son stockées dans le fichier log.txt.
 
+Vous pouvez accéder à vos fichier et travaux web en vous connectant sous l'adresse 192.168.33.10 dans un navigateur web. Il vous faut une connection à internet.
+
 ### Erreur connue
 
 Le troisième "sed" ne s'exécute pas pour une raison encore inconnue ce qui fait que la machine ne sera pas disponible sur le web. 
